@@ -1,0 +1,68 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid snow;
+}
+
+#start , #status{
+    font-size: 22px;
+}
+
+body {
+    margin: 5px;
+}
+
+h4 {
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(189, 189, 189);
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
+li {
+    text-align: left;
+}
+
+.footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 99.17%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+#unluck {
+    color: springgreen;
+}
+
+#canvas {
+    width: 600;
+    height: 500;
+}
